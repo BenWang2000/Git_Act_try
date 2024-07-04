@@ -1,4 +1,3 @@
-# 版权https://github.com/royalneverwin/beating-heart
 
 from tkinter import * # Python 实现GUI界面的包
 from math import sin, cos, pi, log
